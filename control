@@ -1,0 +1,7 @@
+Package: custom-filter
+Version: 1.0
+Depends: dnsmasq, php7, php7-cgi, uhttpd, g++, libstdcpp
+Section: utils
+Architecture: all
+Maintainer: SAMRAT-SHA-EMON <samratshaemon13@gmail.com>
+Description: Custom DNS-based content filter with web interface.
