@@ -4,7 +4,7 @@ PKG_NAME:=custom-filter
 PKG_VERSION:=1.0
 PKG_RELEASE:=1
 
-PKG_MAINTAINER:=SAMRAT-SHA-EMON <your@email.com>
+PKG_MAINTAINER:=SAMRAT-SHA-EMON <samratshaemon13@gmail.com>
 PKG_LICENSE:=MIT
 
 include $(INCLUDE_DIR)/package.mk
