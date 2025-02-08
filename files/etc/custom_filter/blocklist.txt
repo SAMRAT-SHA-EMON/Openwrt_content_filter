@@ -1,0 +1,71 @@
+# ===== Financial/Payment Sites =====
+paypal.com
+stripe.com
+venmo.com
+square.com
+wise.com
+skrill.com
+cash.app
+coinbase.com
+binance.com
+transferwise.com
+westernunion.com
+moneygram.com
+patreon.com
+payoneer.com
+klarna.com
+afterpay.com
+razorpay.com
+gocardless.com
+
+# ===== Gaming/Entertainment =====
+store.steampowered.com
+origin.com
+ea.com
+xboxlive.com
+playstation.com
+nintendo.com
+roblox.com
+minecraft.net
+fortnite.com
+discord.gg
+twitch.tv
+battlenet.com
+activision.com
+ubisoft.com
+
+# ===== Fraudulent/Scam/Malware Sites =====
+fake-paypal-login.com
+bankofamerica.scam-site.com
+creditcard-fraud.com
+malware-hosting.net
+fake-antivirus-download.com
+cryptocurrency-scam.io
+fake-tech-support.net
+lottery-scam.org
+
+# ===== Ad Networks & Trackers =====
+doubleclick.net
+googleadservices.com
+adservice.google.com
+ads.facebook.com
+tracking.twitter.com
+analytics.google.com
+ads.yahoo.com
+adnxs.com
+criteo.com
+taboola.com
+outbrain.com
+
+# ===== Social Media & Distractions =====
+twitter.com
+reddit.com
+primevideo.com
+hulu.com
+disneyplus.com
+
+# ===== IP Addresses (Gaming/Streaming Servers) =====
+# Example IPs (replace with actual IPs you want to block)
+104.16.123.96   # Example gaming server
+23.32.45.67     # Example streaming IP
+172.67.189.102  # Example CDN
